@@ -16,7 +16,7 @@ Table of Contents
 A lightweight UI for a branding application, featuring a clean design with TailwindCSS utilities. This project focuses on layout structuring and color customization.
 
     Folder: /Branding-App
-    Features: Responsive design, custom typography, and utility-first styling.
+    Features: Static design, custom typography, and utility-first styling.
 
 ## 2. Photography
 
