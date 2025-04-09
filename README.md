@@ -2,7 +2,7 @@
 
 Welcome to my TailwindCSS practice repository! This repository contains three mini-projects I built to enhance my skills with TailwindCSS, a utility-first CSS framework. The projects are:
 
-    - **Branding-App** - A simple branding application UI.
+    **Branding-App** - A simple branding application UI.
     **Photography** - A photography portfolio showcase.
     **Web Agency** - A landing page for a fictional web agency.
 
